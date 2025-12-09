@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"] - Clínica</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="/Index">Inicio</a> |
+            <a href="/Admin/Turnos">Disponibilidad Horaria</a> |
+            <a href="/Admin/Agendar">Agendar Consulta</a> |
+            <a href="/Admin/Cancelar">Cancelar Consulta</a> |
+            <a href="/Pagos/Pagos">Registrar Pago</a> |
+            <a href="/Pacientes/Paciente">Listado de Pacientes</a> |
+            <a href="/Medicos/ConsultasFrecuentes">Consultas Frecuentes</a> |
+            <a href="/Medicos/RankingMedicos">Ranking de Médicos</a> |
+            <a href="/Medicos/Medicos">Listado de Médicos por Especialidad</a> |
+            <a href="/Account/Login">Login</a> |
+            <a href="/Account/Logout">Logout</a>
+        </nav>
+        <hr />
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+    <footer>
+        <hr />
+        <p style="text-align:center;">Clínica - 2025</p>
+    </footer>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

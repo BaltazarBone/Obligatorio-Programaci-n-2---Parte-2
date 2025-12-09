@@ -1,0 +1,33 @@
+﻿@page
+@model ObligatorioParte2Razor.Pages.Admin.CancelarModel
+@{
+    ViewData["Title"] = "Cancelar Consulta";
+    Layout = "_AdminLayout";
+}
+
+<h2>Cancelar Consulta Médica</h2>
+
+@if (TempData["Exito"] != null)
+{
+    <div style="color:green">@TempData["Exito"]</div>
+}
+
+<form method="post">
+    <div>
+        <label>Seleccionar Consulta:</label>
+        <select asp-for="SelectedConsultaId" asp-items="@(new SelectList(Model.Consultas, "ID", "Descripcion"))">
+            <option value="">-- Seleccione --</option>
+        </select>
+    </div>
+    <button type="submit">Cancelar Consulta</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div style="color:red">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}

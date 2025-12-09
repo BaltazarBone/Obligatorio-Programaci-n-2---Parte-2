@@ -1,0 +1,28 @@
+﻿@page
+@model ObligatorioParte2Razor.Pages.Admin.RankingMedicosModel
+@{
+    ViewData["Title"] = "Ranking de Médicos";
+    Layout = "_AdminLayout";
+}
+
+<h2>Ranking de Médicos más consultados</h2>
+
+<table border="1" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Médico</th>
+            <th>Especialidad</th>
+            <th>Cantidad de Consultas</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Ranking)
+        {
+            <tr>
+                <td>@item.MedicoNombre</td>
+                <td>@item.Especialidad</td>
+                <td>@item.Cantidad</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\migrations\\20251209020427_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\migrations\\20251209020427_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\admin\\cancelar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\admin\\cancelar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\admin\\cancelar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\admin\\cancelar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\admin\\agendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\admin\\agendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\admin\\agendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\admin\\agendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\shared\\_adminlayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\shared\\_adminlayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\admin\\turnos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\admin\\turnos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\admin\\turnos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\admin\\turnos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\dominio\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\dominio\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\medicos\\consultasfrecuentes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\medicos\\consultasfrecuentes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\medicos\\consultasfrecuentes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\medicos\\consultasfrecuentes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\pagos\\pagos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\pagos\\pagos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\pacientes\\paciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\pacientes\\paciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\medicos\\rankingmedicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\medicos\\rankingmedicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\medicos\\medicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\medicos\\medicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\medicos\\rankingmedicos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\medicos\\rankingmedicos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\medicos\\medicos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\medicos\\medicos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\pagos\\pagos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\pagos\\pagos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\pacientes\\paciente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\pacientes\\paciente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\dominio\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\dominio\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\dominio\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\dominio\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\dominio\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\dominio\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\migrations\\20251209001242_consultapropiedadesnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\migrations\\20251209001242_consultapropiedadesnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\migrations\\20251208230059_primermigracion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\migrations\\20251208230059_primermigracion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\dominio\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\dominio\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\migrations\\20251208230059_primermigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\migrations\\20251208230059_primermigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\dominio\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\dominio\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251209020427_Prueba.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Migrations\\20251209020427_Prueba.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Migrations\\20251209020427_Prueba.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Migrations\\20251209020427_Prueba.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Migrations\\20251209020427_Prueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:04:27.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cancelar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:02:01.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cancelar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T02:01:53.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Agendar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:59:35.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Agendar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T01:59:19.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T01:38:32.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_AdminLayout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:38:58.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultasFrecuentes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T00:50:10.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pagos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Pagos\\Pagos.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Pagos\\Pagos.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Pagos\\Pagos.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Pagos\\Pagos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T00:35:53.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T01:03:19.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:03:05.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsultasFrecuentes.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:50:17.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Consulta.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Dominio\\Consulta.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Consulta.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Dominio\\Consulta.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvyQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:25:45.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Turnos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T00:03:54.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Turnos.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:04:07.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Paciente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Pacientes\\Paciente.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Pacientes\\Paciente.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Pacientes\\Paciente.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Pacientes\\Paciente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T00:23:22.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RankingMedicos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\RankingMedicos.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Medicos\\RankingMedicos.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\RankingMedicos.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Medicos\\RankingMedicos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T00:50:53.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Medicos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\Medicos.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Medicos\\Medicos.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\Medicos.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Medicos\\Medicos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T00:24:26.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T23:43:42.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T23:55:13.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T23:47:58.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RankingMedicos.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\RankingMedicos.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Medicos\\RankingMedicos.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\RankingMedicos.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Medicos\\RankingMedicos.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:51:11.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Program.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Program.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Program.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:59:53.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:55:47.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Medicos.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\Medicos.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Medicos\\Medicos.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\Medicos.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Medicos\\Medicos.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:24:30.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pagos.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Pagos\\Pagos.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Pagos\\Pagos.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Pagos\\Pagos.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Pagos\\Pagos.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:36:12.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Paciente.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Pacientes\\Paciente.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Pacientes\\Paciente.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Pacientes\\Paciente.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Pacientes\\Paciente.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:23:30.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Paciente.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Dominio\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Paciente.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Dominio\\Paciente.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:25:34.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Persona.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Dominio\\Persona.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Persona.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Dominio\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:25:25.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Pago.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Dominio\\Pago.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Pago.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Dominio\\Pago.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:25:29.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251209001242_ConsultaPropiedadesNav.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Migrations\\20251209001242_ConsultaPropiedadesNav.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Migrations\\20251209001242_ConsultaPropiedadesNav.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Migrations\\20251209001242_ConsultaPropiedadesNav.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Migrations\\20251209001242_ConsultaPropiedadesNav.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:12:43.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:44:06.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20251208230059_PrimerMigracion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Migrations\\20251208230059_PrimerMigracion.Designer.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Migrations\\20251208230059_PrimerMigracion.Designer.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Migrations\\20251208230059_PrimerMigracion.Designer.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Migrations\\20251208230059_PrimerMigracion.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:41:31.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:30:28.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Administrativo.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Administrativo.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Dominio\\Administrativo.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Administrativo.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Dominio\\Administrativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:24:56.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Medico.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Dominio\\Medico.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Medico.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Dominio\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:25:39.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Datos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Datos\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:00:22.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251208230059_PrimerMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Migrations\\20251208230059_PrimerMigracion.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Migrations\\20251208230059_PrimerMigracion.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Migrations\\20251208230059_PrimerMigracion.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Migrations\\20251208230059_PrimerMigracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:01:00.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\appsettings.json",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\appsettings.json",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\appsettings.json",
+              "RelativeToolTip": "ObligatorioParte2Razor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-08T22:59:50.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

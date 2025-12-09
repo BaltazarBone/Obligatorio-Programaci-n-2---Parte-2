@@ -1,0 +1,42 @@
+﻿@page
+@model ObligatorioParte2Razor.Pages.Admin.AgendarModel
+@{
+    ViewData["Title"] = "Agendar Consulta Médica";
+    Layout = "_AdminLayout";
+}
+
+<h2>Agendar Consulta Médica</h2>
+
+@if (TempData["Exito"] != null)
+{
+    <div style="color:green">@TempData["Exito"]</div>
+}
+
+<form method="post">
+    <div>
+        <label>Médico:</label>
+        <select asp-for="SelectedMedicoId" asp-items="@(new SelectList(Model.Medicos, "ID", "Nombre"))"></select>
+    </div>
+
+    <div>
+        <label>Paciente:</label>
+        <select asp-for="SelectedPacienteId" asp-items="@(new SelectList(Model.Pacientes, "ID", "Nombre"))"></select>
+    </div>
+
+    <div>
+        <label>Fecha y Hora:</label>
+        <input asp-for="FechaHora" type="datetime-local" />
+    </div>
+
+    <button type="submit">Agendar consulta médica</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div style="color:red">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}

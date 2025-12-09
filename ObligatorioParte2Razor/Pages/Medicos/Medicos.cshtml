@@ -1,0 +1,34 @@
+﻿@page
+@model ObligatorioParte2Razor.Pages.Admin.MedicosModel
+@{
+    ViewData["Title"] = "Listado de Médicos";
+    Layout = "_AdminLayout";
+}
+
+<h2>Listado de Médicos por Especialidad</h2>
+
+<table border="1" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Matrícula</th>
+            <th>Especialidad</th>
+            <th>Días de Atención</th>
+            <th>Horarios Disponibles</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var medico in Model.Medicos)
+        {
+            <tr>
+                <td>@medico.Nombre</td>
+                <td>@medico.Apellido</td>
+                <td>@medico.Matricula</td>
+                <td>@medico.Especialidad</td>
+                <td>@string.Join(", ", medico.DiasAtencion)</td>
+                <td>@string.Join(", ", medico.HorariosDisponibles.Select(h => h.ToString(@"hh\:mm")))</td>
+            </tr>
+        }
+    </tbody>
+</table>

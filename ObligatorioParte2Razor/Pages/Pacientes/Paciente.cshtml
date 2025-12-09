@@ -1,0 +1,34 @@
+﻿@page
+@model ObligatorioParte2Razor.Pages.Admin.PacientesModel
+@{
+    ViewData["Title"] = "Listado de Pacientes";
+    Layout = "_AdminLayout";
+}
+
+<h2>Listado de Pacientes</h2>
+
+<table border="1" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Documento</th>
+            <th>Email</th>
+            <th>Teléfono</th>
+            <th>Obra Social</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var paciente in Model.Pacientes)
+        {
+            <tr>
+                <td>@paciente.Nombre</td>
+                <td>@paciente.Apellido</td>
+                <td>@paciente.NumeroDocumento</td>
+                <td>@paciente.Email</td>
+                <td>@paciente.Telefono</td>
+                <td>@paciente.ObraSocial</td>
+            </tr>
+        }
+    </tbody>
+</table>

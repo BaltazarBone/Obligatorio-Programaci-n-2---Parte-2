@@ -1,0 +1,28 @@
+﻿@page
+@model ObligatorioParte2Razor.Pages.Account.LoginModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "_AdminLayout";
+}
+
+<h2>Iniciar Sesión</h2>
+
+<form method="post">
+    <div>
+        <label>Nombre de Usuario:</label>
+        <input asp-for="Input.NombreUsuario" />
+        <span asp-validation-for="Input.NombreUsuario"></span>
+    </div>
+
+    <div>
+        <label>Contraseña:</label>
+        <input asp-for="Input.Contrasenia" type="password" />
+        <span asp-validation-for="Input.Contrasenia"></span>
+    </div>
+
+    <button type="submit">Entrar</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,54 @@
+﻿@page
+@model ObligatorioParte2Razor.Pages.Admin.DisponibilidadModel
+@{
+    ViewData["Title"] = "Disponibilidad de Médicos";
+    Layout = "_AdminLayout";
+}
+
+<h2>Ver disponibilidad por especialidad</h2>
+
+@if (Model.Especialidades != null && Model.Especialidades.Any())
+{
+    <div>
+        @foreach (var esp in Model.Especialidades)
+        {
+            <form method="get" style="display:inline;">
+                <input type="hidden" name="SelectedEspecialidad" value="@esp" />
+                <button type="submit">@esp</button>
+            </form>
+        }
+    </div>
+}
+
+@if (!string.IsNullOrEmpty(Model.SelectedEspecialidad))
+{
+    <h4>Médicos disponibles en @Model.SelectedEspecialidad:</h4>
+    @if (Model.Medicos.Any())
+    {
+        <table border="1" cellpadding="5">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>Días de atención</th>
+                    <th>Horarios disponibles</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var med in Model.Medicos)
+                {
+                    <tr>
+                        <td>@med.Nombre</td>
+                        <td>@med.Apellido</td>
+                        <td>@string.Join(", ", med.DiasAtencion)</td>
+                        <td>@string.Join(", ", med.HorariosDisponibles.Select(h => h.ToString(@"hh\:mm")))</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No hay médicos disponibles para esta especialidad.</p>
+    }
+}

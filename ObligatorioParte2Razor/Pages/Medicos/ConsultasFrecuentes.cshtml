@@ -1,0 +1,26 @@
+﻿@page
+@model ObligatorioParte2Razor.Pages.Admin.ConsultasFrecuentesModel
+@{
+    ViewData["Title"] = "Consultas más frecuentes";
+    Layout = "_AdminLayout";
+}
+
+<h2>Consultas más frecuentes por especialidad</h2>
+
+<table border="1" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Especialidad</th>
+            <th>Cantidad de Consultas</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.ConsultasPorEspecialidad)
+        {
+            <tr>
+                <td>@item.Especialidad</td>
+                <td>@item.Cantidad</td>
+            </tr>
+        }
+    </tbody>
+</table>
