@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\migrations\\20251209020427_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\migrations\\20251209020427_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -81,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|solutionrelative:obligatorioparte2razor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03D72E79-6BB9-4DC9-AB17-B1F0BDF5064C}|ObligatorioParte2Razor\\ObligatorioParte2Razor.csproj|c:\\users\\baltazar\\desktop\\ctc\\segundo semestre\\programacion 2\\obligatorioparte2razor\\obligatorioparte2razor\\pages\\medicos\\rankingmedicos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -166,11 +166,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "20251209020427_Prueba.cs",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Migrations\\20251209020427_Prueba.cs",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Migrations\\20251209020427_Prueba.cs",
@@ -183,19 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cancelar.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
-              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
-              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
-              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T02:02:01.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Cancelar.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml",
@@ -207,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Agendar.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml.cs",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml.cs",
@@ -219,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Agendar.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Agendar.cshtml",
@@ -231,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml",
@@ -243,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_AdminLayout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml.cs",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Shared\\_AdminLayout.cshtml.cs",
@@ -255,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ConsultasFrecuentes.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml",
@@ -267,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Pagos.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Pagos\\Pagos.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Pagos\\Pagos.cshtml",
@@ -279,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Index.cshtml",
@@ -291,7 +279,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T23:47:58.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cancelar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
+              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
+              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\Admin\\Cancelar.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:02:01.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Index.cshtml.cs",
@@ -303,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ConsultasFrecuentes.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml.cs",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Medicos\\ConsultasFrecuentes.cshtml.cs",
@@ -315,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Consulta.cs",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Dominio\\Consulta.cs",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Dominio\\Consulta.cs",
@@ -327,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Turnos.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml",
@@ -339,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Turnos.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml.cs",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Admin\\Turnos.cshtml.cs",
@@ -351,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Paciente.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Pacientes\\Paciente.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Pacientes\\Paciente.cshtml",
@@ -363,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "RankingMedicos.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\RankingMedicos.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Medicos\\RankingMedicos.cshtml",
@@ -375,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Medicos.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Medicos\\Medicos.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Medicos\\Medicos.cshtml",
@@ -387,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Account\\Login.cshtml",
@@ -399,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\Account\\Logout.cshtml",
@@ -408,18 +421,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-08T23:55:13.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Baltazar\\Desktop\\CTC\\Segundo Semestre\\Programacion 2\\ObligatorioParte2Razor\\ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "ObligatorioParte2Razor\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T23:47:58.665Z"
             },
             {
               "$type": "Document",
